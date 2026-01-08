@@ -2,8 +2,6 @@
 
 I'm excited about everything Rust and especially embedded stuff.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bjoernQ&show_icons=true)
-
 <!--
 **bjoernQ/bjoernQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
